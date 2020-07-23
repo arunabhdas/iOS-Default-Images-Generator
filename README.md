@@ -67,6 +67,6 @@ Above command generates:
 ## References
 
 - [iOS App Programming Guide: App-Related Resources](https://developer.apple.com/library/ios/documentation/iphone/conceptual/iphoneosprogrammingguide/App-RelatedResources/App-RelatedResources.html)
-- [iOSヒューマンインターフェイスガイドライン: 起動画像](https://developer.apple.com/jp/devcenter/ios/library/documentation/userexperience/conceptual/mobilehig/LaunchImages/LaunchImages.html)
+- (https://developer.apple.com/design/human-interface-guidelines/tvos/icons-and-images/image-size-and-resolution/)
 - [ImageMagick: Command-line Options](http://www.imagemagick.org/script/command-line-options.php#fill)
 
